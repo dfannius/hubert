@@ -1,0 +1,10 @@
+* TODO
+ + Choose rhythm randomly
+ - Allow weightedIntervals and weightedPCs to change over the course
+   of a musical line
+ - Pull lines back towards root pitch
+ - Gap fill (follow leap by step in the other direction)
+ - Refactor noteStream/noteStream2
+ - Function for what pitches are sounding at any given time
+
+ 
